@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Шахматы_Код конем", "Шахматы_Код конем\Шахматы_Код конем.vcxproj", "{D1709089-5853-49E4-9DB9-5A8AE0E283BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ход Ферзем", "Ход Ферзем\Ход Ферзем.vcxproj", "{C39612FA-2E53-4F84-80EB-8129162F87F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D1709089-5853-49E4-9DB9-5A8AE0E283BB}.Release|x64.Build.0 = Release|x64
 		{D1709089-5853-49E4-9DB9-5A8AE0E283BB}.Release|x86.ActiveCfg = Release|Win32
 		{D1709089-5853-49E4-9DB9-5A8AE0E283BB}.Release|x86.Build.0 = Release|Win32
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Debug|x64.ActiveCfg = Debug|x64
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Debug|x64.Build.0 = Debug|x64
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Debug|x86.Build.0 = Debug|Win32
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Release|x64.ActiveCfg = Release|x64
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Release|x64.Build.0 = Release|x64
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Release|x86.ActiveCfg = Release|Win32
+		{C39612FA-2E53-4F84-80EB-8129162F87F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
